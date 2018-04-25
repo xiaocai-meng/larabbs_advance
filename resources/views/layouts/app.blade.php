@@ -10,8 +10,10 @@
 
     <title>@yield('title', 'LaraBBS') - LaraBBS</title>
 
+    <meta name="description" content="@yield('description', 'LaraBBS 爱好者社区')" />
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    @yield('styles')
 </head>
 
 <body>
@@ -31,5 +33,6 @@
 
 <!-- Scripts -->
 <script src="{{ asset('js/app.js') }}"></script>
+@yield('scripts')
 </body>
 </html>
