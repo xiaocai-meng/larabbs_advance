@@ -11,7 +11,7 @@
     <title>@yield('title', 'LaraBBS') - {{ setting('site_name', 'Laravel 进阶教程') }}</title>
     <meta name="description" content="@yield('description', setting('seo_description', 'LaraBBS'))" />
     <meta name="keyword" content="@yield('keyword', setting('seo_keyword', 'LaraBBS'))" />
-    
+
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     @yield('styles')
