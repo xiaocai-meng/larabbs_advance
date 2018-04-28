@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "37583703336160a4d52ec2a125b8e4da",
+    "content-hash": "5a082ac16363f956525621b4afc73f98",
     "packages": [
         {
             "name": "cakephp/chronos",
@@ -3566,16 +3566,16 @@
         },
         {
             "name": "xiaocai/administrator",
-            "version": "v1.1.8",
+            "version": "v1.1.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/xiaocai-meng/administrator.git",
-                "reference": "be748164aae09d9a6828dee57be9719c7c72c0bb"
+                "reference": "e9e014fec57eeb448bbf9c1bc71a2c038188947f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/xiaocai-meng/administrator/zipball/be748164aae09d9a6828dee57be9719c7c72c0bb",
-                "reference": "be748164aae09d9a6828dee57be9719c7c72c0bb",
+                "url": "https://api.github.com/repos/xiaocai-meng/administrator/zipball/e9e014fec57eeb448bbf9c1bc71a2c038188947f",
+                "reference": "e9e014fec57eeb448bbf9c1bc71a2c038188947f",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -3629,7 +3629,7 @@
                 "laravel",
                 "laravel-administrator"
             ],
-            "time": "2018-04-27T09:31:37+00:00"
+            "time": "2018-04-28T03:57:04+00:00"
         }
     ],
     "packages-dev": [
